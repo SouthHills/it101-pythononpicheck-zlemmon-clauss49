@@ -1,7 +1,7 @@
 import random
 
-yourName = "[YOUR NAME HERE]"
-yourSouthHillsUserName = "[YOUR USERNAME HERE]"
+yourName = "[Zac Lemmon]"
+yourSouthHillsUserName = "[zlemmon-clauss49]"
 
 print(f"Hello, {yourName} | {yourSouthHillsUserName}")
 
